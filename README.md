@@ -28,3 +28,5 @@ Para acessá-lo, basta usar a url: http://localhost:8080/h2-console e clicar em 
 
 A aplicação está documentada utilizando o swagger, para acessá-la, basta usar a url: http://localhost:8080/swagger-ui/
 e verificar as chamadas existentes.
+
+Desenvolvido por Gabriel de Barros Pereira
